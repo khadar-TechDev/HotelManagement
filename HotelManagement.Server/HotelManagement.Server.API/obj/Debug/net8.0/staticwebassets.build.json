@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "CVzVcG2Uf2gCDNcHeFOXRjAEGuO3yrN5gf/vxA1CeNk=",
+  "Source": "HotelManagement.Server.API",
+  "BasePath": "_content/HotelManagement.Server.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
