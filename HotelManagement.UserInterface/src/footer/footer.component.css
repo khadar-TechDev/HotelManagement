@@ -1,0 +1,11 @@
+/* footer.component.css */
+.footer {
+    background-color: grey; /* Grey background color */
+    color: white; /* White text color for contrast */
+    text-align: center; /* Center the text */
+    padding: 10px; /* Add some padding */
+    position: fixed; /* Fixed position at the bottom */
+    bottom: 0; /* Align at the bottom */
+    width: 100%; /* Full width */
+  }
+  

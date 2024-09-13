@@ -15,5 +15,6 @@ Start-Process -FilePath "npx" -ArgumentList "http-server", "-p", $angularPort -W
 Start-Process -FilePath $aspNetCoreAppPath -WorkingDirectory (Split-Path -Parent $aspNetCoreAppPath) -NoNewWindow -RedirectStandardOutput "NUL"
 
 # Inform the user
-Write-Output "Angular application is running at http://localhost:$angularPort"
-Write-Output "ASP.NET Core application is running."
+Write-Output "Application is running at URL : http://localhost:$angularPort"
+Write-Output "Server Application is running."
+Write-Output "`n`nclose this window to stop the Application."
