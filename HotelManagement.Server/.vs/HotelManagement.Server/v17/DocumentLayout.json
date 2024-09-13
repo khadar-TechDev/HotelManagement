@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KK016874\\OneDrive - Zelis Healthcare\\Documents\\Projects\\HotelManagement\\HotelManagement.Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B274AF78-DD1F-4A98-AAE0-E71748ADD544}|HotelManagement.Server.API\\HotelManagement.Server.API.csproj|c:\\users\\kk016874\\onedrive - zelis healthcare\\documents\\projects\\hotelmanagement\\hotelmanagement.server\\hotelmanagement.server.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B274AF78-DD1F-4A98-AAE0-E71748ADD544}|HotelManagement.Server.API\\HotelManagement.Server.API.csproj|solutionrelative:hotelmanagement.server.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B274AF78-DD1F-4A98-AAE0-E71748ADD544}|HotelManagement.Server.API\\HotelManagement.Server.API.csproj|c:\\users\\kk016874\\onedrive - zelis healthcare\\documents\\projects\\hotelmanagement\\hotelmanagement.server\\hotelmanagement.server.api\\controllers\\echotestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B274AF78-DD1F-4A98-AAE0-E71748ADD544}|HotelManagement.Server.API\\HotelManagement.Server.API.csproj|solutionrelative:hotelmanagement.server.api\\controllers\\echotestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B274AF78-DD1F-4A98-AAE0-E71748ADD544}|HotelManagement.Server.API\\HotelManagement.Server.API.csproj|c:\\users\\kk016874\\onedrive - zelis healthcare\\documents\\projects\\hotelmanagement\\hotelmanagement.server\\hotelmanagement.server.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B274AF78-DD1F-4A98-AAE0-E71748ADD544}|HotelManagement.Server.API\\HotelManagement.Server.API.csproj|solutionrelative:hotelmanagement.server.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B274AF78-DD1F-4A98-AAE0-E71748ADD544}|HotelManagement.Server.API\\HotelManagement.Server.API.csproj|c:\\users\\kk016874\\onedrive - zelis healthcare\\documents\\projects\\hotelmanagement\\hotelmanagement.server\\hotelmanagement.server.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B274AF78-DD1F-4A98-AAE0-E71748ADD544}|HotelManagement.Server.API\\HotelManagement.Server.API.csproj|solutionrelative:hotelmanagement.server.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B274AF78-DD1F-4A98-AAE0-E71748ADD544}|HotelManagement.Server.API\\HotelManagement.Server.API.csproj|c:\\users\\kk016874\\onedrive - zelis healthcare\\documents\\projects\\hotelmanagement\\hotelmanagement.server\\hotelmanagement.server.api\\hotelmanagement.server.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{B274AF78-DD1F-4A98-AAE0-E71748ADD544}|HotelManagement.Server.API\\HotelManagement.Server.API.csproj|solutionrelative:hotelmanagement.server.api\\hotelmanagement.server.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\KK016874\\OneDrive - Zelis Healthcare\\Documents\\Projects\\HotelManagement\\HotelManagement.Server\\HotelManagement.Server.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "HotelManagement.Server.API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\KK016874\\OneDrive - Zelis Healthcare\\Documents\\Projects\\HotelManagement\\HotelManagement.Server\\HotelManagement.Server.API\\appsettings.Development.json",
+              "RelativeToolTip": "HotelManagement.Server.API\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-13T11:29:40.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EchoTestController.cs",
+              "DocumentMoniker": "C:\\Users\\KK016874\\OneDrive - Zelis Healthcare\\Documents\\Projects\\HotelManagement\\HotelManagement.Server\\HotelManagement.Server.API\\Controllers\\EchoTestController.cs",
+              "RelativeDocumentMoniker": "HotelManagement.Server.API\\Controllers\\EchoTestController.cs",
+              "ToolTip": "C:\\Users\\KK016874\\OneDrive - Zelis Healthcare\\Documents\\Projects\\HotelManagement\\HotelManagement.Server\\HotelManagement.Server.API\\Controllers\\EchoTestController.cs",
+              "RelativeToolTip": "HotelManagement.Server.API\\Controllers\\EchoTestController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T11:18:30.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KK016874\\OneDrive - Zelis Healthcare\\Documents\\Projects\\HotelManagement\\HotelManagement.Server\\HotelManagement.Server.API\\Program.cs",
+              "RelativeDocumentMoniker": "HotelManagement.Server.API\\Program.cs",
+              "ToolTip": "C:\\Users\\KK016874\\OneDrive - Zelis Healthcare\\Documents\\Projects\\HotelManagement\\HotelManagement.Server\\HotelManagement.Server.API\\Program.cs",
+              "RelativeToolTip": "HotelManagement.Server.API\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T11:00:34.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\KK016874\\OneDrive - Zelis Healthcare\\Documents\\Projects\\HotelManagement\\HotelManagement.Server\\HotelManagement.Server.API\\Dockerfile",
+              "RelativeDocumentMoniker": "HotelManagement.Server.API\\Dockerfile",
+              "ToolTip": "C:\\Users\\KK016874\\OneDrive - Zelis Healthcare\\Documents\\Projects\\HotelManagement\\HotelManagement.Server\\HotelManagement.Server.API\\Dockerfile",
+              "RelativeToolTip": "HotelManagement.Server.API\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-13T10:57:10.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HotelManagement.Server.API",
+              "DocumentMoniker": "C:\\Users\\KK016874\\OneDrive - Zelis Healthcare\\Documents\\Projects\\HotelManagement\\HotelManagement.Server\\HotelManagement.Server.API\\HotelManagement.Server.API.csproj",
+              "RelativeDocumentMoniker": "HotelManagement.Server.API\\HotelManagement.Server.API.csproj",
+              "ToolTip": "C:\\Users\\KK016874\\OneDrive - Zelis Healthcare\\Documents\\Projects\\HotelManagement\\HotelManagement.Server\\HotelManagement.Server.API\\HotelManagement.Server.API.csproj",
+              "RelativeToolTip": "HotelManagement.Server.API\\HotelManagement.Server.API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-13T10:55:44.649Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
