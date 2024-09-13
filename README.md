@@ -20,4 +20,8 @@ Create a global http server using npm command "npm install -g http-server"
 Locate to Production/UserInterface/browser , open command prompt use "http-server" , the angular app will run on localhost:8080
 
 
+# Production 
+Locate to folder production and execute the ps1 script , the applications will be on running locally.
+
+
 
