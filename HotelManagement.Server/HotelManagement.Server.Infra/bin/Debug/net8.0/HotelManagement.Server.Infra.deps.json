@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "HotelManagement.Server.Infra/1.0.0": {
+        "runtime": {
+          "HotelManagement.Server.Infra.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HotelManagement.Server.Infra/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

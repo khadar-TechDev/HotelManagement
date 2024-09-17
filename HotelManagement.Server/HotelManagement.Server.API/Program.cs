@@ -1,3 +1,6 @@
+using HotelManagement.Server.Repository.Data;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -15,10 +18,13 @@ builder.Services.AddCors(options =>
     });
 });
 
+builder.Services.AddDbContext<HotelManagementDBContext>(options =>
+{
+    options.UseSqlite("Data Source=C:\\Users\\KK016874\\OneDrive - Zelis Healthcare\\Documents\\Projects\\HotelManagement\\HotelManagement.Server\\HotelManagement.Server.Repository\\SQlite File\\HotelManagementDB.db");
+});
 
 var app = builder.Build();
 
-//Configuring cors policy here to match the origin to any as of now , may change it later
 
 
 // Configure the HTTP request pipeline.
@@ -29,7 +35,9 @@ if (app.Environment.IsDevelopment() || app.Environment.IsProduction())
     app.UseSwaggerUI();
 }
 
+//Configuring cors policy here to match the origin to any as of now , may change it later
 app.UseCors("AllowAnyOrigin");
+
 app.UseAuthorization();
 app.MapControllers();
 app.Run();
