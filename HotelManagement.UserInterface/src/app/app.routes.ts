@@ -1,5 +1,5 @@
 import { RouterModule, Routes } from '@angular/router';
-import { LoginPageComponent } from '../login-page/login-page.component';
+import { LoginPageComponent } from './login-page/login-page.component';
 import { NgModule } from '@angular/core';
 
 export const routes: Routes = [

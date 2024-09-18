@@ -7,7 +7,9 @@ This project is for maintaining hotel transaction and accountability for efficie
 dotnet publish -c Release -o ..\..\Production\Server
 
 # HotelManagement.UserInterface [Angular]
-ng build --configuration production --output-path=../Production/UserInterface  
+directly use the npm run prod-build , that is registered in package.json file.
+
+Script to build [Package.json] : ng build --configuration production --output-path = ../Production/UserInterface  
 
 
 # Run the Application
