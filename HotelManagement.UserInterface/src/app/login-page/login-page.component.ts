@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-login-page',
@@ -7,6 +8,17 @@ import { Component } from '@angular/core';
   templateUrl: './login-page.component.html',
   styleUrl: './login-page.component.css'
 })
-export class LoginPageComponent {
+export class LoginPageComponent
+{
+  constructor(private router:Router)
+  {
 
+  }
+  userIDPlaceHolder:string = "Enter your user ID"
+  passwordPlaceHolder:string = "Enter your password"
+
+  signupclick()
+  {
+    this.router.navigate(['/signup'])
+  }
 }
