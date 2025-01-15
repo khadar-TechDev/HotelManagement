@@ -1,0 +1,43 @@
+<div>
+    <div class="container">
+        <div class="login-box">
+            <h2 class="align-center">SignUp</h2>
+            <p class="align-center">Register for Sales Account</p>
+            <form>
+                <div class="input-group">
+                    <label for="username">Username</label>
+                    <input type="text" name="userName" [(ngModel)]="userName" [placeholder] = userNamePH required>
+                </div>
+                <div class="input-group">
+                    <label for="username">Email ID</label>
+                    <input type="text" name="emailID" [(ngModel)]="emailID" [placeholder] = emailPH required>
+                </div>
+                <div class="input-group">
+                    <label for="username">Organization Name</label>
+                    <input type="text" name="organization" [(ngModel)]="organization" [placeholder] = organizationPH required>
+                </div>
+                <div class="input-group">
+                    <label for="username">Mobile no.</label>
+                    <input type="text" name="mobile" [(ngModel)]="mobile" [placeholder] = mobileePH required>
+                </div>
+                <div class="input-group">
+                    <label for="username">Subscription Type</label>
+                    <input type="text" name="subscription" [(ngModel)]="subscription" [placeholder] = subscriptionPH required>
+                </div>
+                <div class="input-group">
+                    <label for="password" p>Password</label>
+                    <input type="password" name="password" [(ngModel)]="password" [placeholder] = passwordPH required>
+                </div>
+                <div class="input-group">
+                    <label for="password" p>Confirm Password</label>
+                    <input type="password" name="confirmPassword" [(ngModel)]="confirmPassword"[placeholder] = confirmPasswordPH required>
+                    <div *ngIf="!passwordsMatch && confirmPassword">
+                        <p style="color: red;">Passwords do not match!</p>
+                      </div>
+                </div>
+                <button class="signup-button" (click)="signupclick()">Register</button>
+            </form>
+        </div>
+</div>
+</div>
+
